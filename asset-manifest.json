@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.461408b9.chunk.css",
+    "main.js": "/portfolio/static/js/main.a3a09bc0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a3a09bc0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.43d9a0ba.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.43d9a0ba.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.474d6165.chunk.js": "/portfolio/static/js/2.474d6165.chunk.js",
+    "static/js/2.474d6165.chunk.js.map": "/portfolio/static/js/2.474d6165.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.461408b9.chunk.css.map": "/portfolio/static/css/main.461408b9.chunk.css.map",
+    "static/js/2.474d6165.chunk.js.LICENSE.txt": "/portfolio/static/js/2.474d6165.chunk.js.LICENSE.txt",
+    "static/media/Miroodles - Mono Comp.11ebe147.png": "/portfolio/static/media/Miroodles - Mono Comp.11ebe147.png",
+    "static/media/PSlogo.8937a79a.svg": "/portfolio/static/media/PSlogo.8937a79a.svg",
+    "static/media/blogappproject.29374522.png": "/portfolio/static/media/blogappproject.29374522.png",
+    "static/media/dashphoto.a0372ae4.png": "/portfolio/static/media/dashphoto.a0372ae4.png",
+    "static/media/dashproject.0b87e6e7.png": "/portfolio/static/media/dashproject.0b87e6e7.png",
+    "static/media/github.fef9632f.svg": "/portfolio/static/media/github.fef9632f.svg",
+    "static/media/link.0e17f72a.svg": "/portfolio/static/media/link.0e17f72a.svg",
+    "static/media/portfolioproject.f6b4350c.png": "/portfolio/static/media/portfolioproject.f6b4350c.png",
+    "static/media/profiilikuva.794dc01d.png": "/portfolio/static/media/profiilikuva.794dc01d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d9a0ba.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.474d6165.chunk.js",
+    "static/css/main.461408b9.chunk.css",
+    "static/js/main.a3a09bc0.chunk.js"
+  ]
+}
