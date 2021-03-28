@@ -50,7 +50,8 @@ const HomePage = () => {
             </h4>
             <p style={titleDelay4} className="animated-title">
               Welcome to my portfolio page! Here I will tell a little about
-              myself and show some of the work I have done.
+              myself and show some of the work I have done. This is still a work
+              in progress.
             </p>
           </Col>
           <Col className="about-col">

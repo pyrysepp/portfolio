@@ -26,9 +26,11 @@ const ProjectsPage = () => {
       title: "Blog App",
       about:
         "Blog app made on the fullstack 2020 course, the app has a user system and allows saving blogs and liking and commenting them. Also, there are admin views for seeing all users and their posted blogs. Frontend of the app is made with react, backend is Express + MongoDB. ",
-      learned: "React, Redux, Express, MongoDB, the whole MERN stack. ",
+      learned:
+        "I learned about fullstack development using React, Redux, Express, MongoDB - the whole MERN stack. I also learned about testing the whole app using cypress and jest. ",
       image: blogappproject,
-      github: "https://github.com/pyrysepp/fullstack2020",
+      github:
+        "https://github.com/pyrysepp/fullstack2020/tree/master/part7/bloglist-front-redux",
       link: "",
       id: 1,
     },
@@ -36,16 +38,17 @@ const ProjectsPage = () => {
       title: "Portfolio Website",
       about:
         "I made this page using React. The UI is made by mixture of bootstrap and own customization. ",
-      learned: "I learned most about animations, SVGs and react-bootstrap. ",
+      learned:
+        "I learned mostly different things about CSS. Also publishing the app to github pages. ",
       image: portfolioproject,
-      github: "",
-      link: "",
+      github: "https://github.com/pyrysepp/portfolio/tree/master",
+      link: "https://pyrysepp.github.io/portfolio/",
       id: 2,
     },
     {
       title: "DASH 2020 Event Website",
       about:
-        "The event website for DASH 2020 - a yearly hosted design hackathon. The website was built by me and 2 other persons using Webflow. ",
+        "The event website for DASH 2020 - a yearly hosted design hackathon. The website was built by me and two other persons using Webflow. ",
       learned:
         "I learned alot about using Webflow and CSS. I also learned some things about Zapier and SEO stuff. ",
       image: dashproject,

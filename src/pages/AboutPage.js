@@ -49,7 +49,7 @@ const AboutPage = () => {
               like to relax, drink tea and watch some Netflix or read some
               interesting book.
             </p>
-            <p>I am interested in entrepreneurship, </p>
+            {/*    <p>I am interested in entrepreneurship, </p> */}
           </Col>
         </Row>
       </Container>

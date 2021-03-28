@@ -58,7 +58,9 @@ h4 {
 h5 {
   font-size: 1.333rem;
 }
-
+.navbar {
+  transition: top 0.6s 0s ease;
+}
 small,
 .text_small {
   font-size: 0.75rem;
@@ -71,12 +73,15 @@ small,
   }
   100% {
     transform: translateY(0);
-    opacity: 100%;
+    opacity: 1;
   }
 }
 
 .animated-title {
-  animation: translate-title 1s ease forwards;
+  animation: translate-title 1s ease normal forwards;
+  -webkit-animation: translate-title 1s ease normal forwards;
+  -moz-animation: translate-title 1s ease normal forwards;
+  -o-animation: translate-title 1s ease normal forwards;
 }
 .toolkit-section-container {
   width: 100%;
