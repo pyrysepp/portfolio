@@ -29,8 +29,7 @@ const ToolkitPage = () => {
           <Col className="toolkit-col">
             <p>
               At the moment my most important tools include full stack
-              development using React, Express, MongoDB and NodeJS. Object
-              oriented programming using Scala. Design, wireframing and
+              development using React, Express, MongoDB and NodeJS. I can also do basic programming with Scala. In addition, I am familiar with designing, wireframing and
               prototyping using Figma.
             </p>
             <p>
@@ -40,7 +39,7 @@ const ToolkitPage = () => {
               teamwork oriented, open and positive mind to the table.
             </p>
             <p>
-              I want to make beautiful and clear UI with great and memorable UX.
+              My goal is to be able to make beautiful and clear UI with great and memorable UX.
               I want to make the world a better place by creating and developing
               ideas and solutions that bring value to peoples lifes.
             </p>

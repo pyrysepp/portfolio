@@ -57,9 +57,9 @@ const Navigation = () => {
           <a className="navLink" href="#projects">
             Projects
           </a>
-          <a href="#contact" className="navLink">
+         {/*  <a href="#contact" className="navLink">
             Contact
-          </a>
+          </a> */}
         </Nav>
       </NavbarCollapse>
     </CustomNavbar>

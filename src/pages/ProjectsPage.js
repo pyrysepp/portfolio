@@ -25,7 +25,7 @@ const ProjectsPage = () => {
     {
       title: "Blog App",
       about:
-        "Blog app made on the fullstack 2020 course, the app has a user system and allows saving blogs and liking and commenting them. Also, there are admin views for seeing all users and their posted blogs. Frontend of the app is made with react, backend is Express + MongoDB. ",
+        "Blog app made on the fullstack 2020 course, the app has a register/login system and allows saving, deleting, liking and commentig blogs. Also, there are admin views for seeing all users and their posted blogs. Frontend of the app is made with react, backend is Express + MongoDB. ",
       learned:
         "I learned about fullstack development using React, Redux, Express, MongoDB - the whole MERN stack. I also learned about testing the whole app using cypress and jest. ",
       image: blogappproject,
