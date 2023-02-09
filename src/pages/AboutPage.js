@@ -1,7 +1,7 @@
-import React from "react"
-import { Container, Row, Col, Image } from "react-bootstrap"
+import React from "react";
+import { Container, Row, Col, Image } from "react-bootstrap";
 
-import dashphoto from "../assets/dashphoto.png"
+import dashphoto from "../assets/dashphoto.png";
 const AboutPage = () => {
   return (
     <div className="about-section-container">
@@ -39,9 +39,9 @@ const AboutPage = () => {
           </Col>
           <Col className="about-col">
             <p>
-              I am a second year student studying information networks at Aalto
-              University. Im a pretty normal guy who enjoys spending time and
-              doing all sorts of different activities with my friends.
+              Information networks masters student majoring software engineering
+              and architectures. Im a pretty normal guy who enjoys spending time
+              and doing all sorts of different activities with my friends.
             </p>
             <p>
               I have a quite active lifestyle which involves doing all sorts of
@@ -54,7 +54,7 @@ const AboutPage = () => {
         </Row>
       </Container>
     </div>
-  )
-}
+  );
+};
 
-export default AboutPage
+export default AboutPage;

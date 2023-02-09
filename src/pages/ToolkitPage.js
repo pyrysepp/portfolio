@@ -1,6 +1,6 @@
-import React from "react"
-import doodle from "../assets/Miroodles - Mono Comp.png"
-import { Container, Row, Col, Image } from "react-bootstrap"
+import React from "react";
+import doodle from "../assets/Miroodles - Mono Comp.png";
+import { Container, Row, Col, Image } from "react-bootstrap";
 const ToolkitPage = () => {
   return (
     <div className="toolkit-section-container">
@@ -28,9 +28,11 @@ const ToolkitPage = () => {
         <Row lg={2} xs={1}>
           <Col className="toolkit-col">
             <p>
-              At the moment my most important tools include full stack
-              development using React, Express, MongoDB and NodeJS. I can also do basic programming with Scala. In addition, I am familiar with designing, wireframing and
-              prototyping using Figma.
+              I am familiar with the modern web development tools, such as
+              NextJS & NodeJS. I am also familiar in developing android
+              applications with java and data science with python. In addition,
+              I have experience in designing, wireframing and prototyping using
+              Figma.
             </p>
             <p>
               I am constantly learning and working on bringing new tools to my
@@ -39,9 +41,10 @@ const ToolkitPage = () => {
               teamwork oriented, open and positive mind to the table.
             </p>
             <p>
-              My goal is to be able to make beautiful and clear UI with great and memorable UX.
-              I want to make the world a better place by creating and developing
-              ideas and solutions that bring value to peoples lifes.
+              My goal is to be able to make beautiful and clear UI with great
+              and memorable UX. I want to make the world a better place by
+              creating and developing ideas and solutions that bring value to
+              peoples lifes.
             </p>
           </Col>
           <Col className="toolkit-image-col">
@@ -50,6 +53,6 @@ const ToolkitPage = () => {
         </Row>
       </Container>
     </div>
-  )
-}
-export default ToolkitPage
+  );
+};
+export default ToolkitPage;
